@@ -1,0 +1,2094 @@
+Initial state
+Ea_e Ea_e ____ ____ Ea_e ho_e ____ ho_w 
+Round 1
+Creature (Eat east 0 1) takes action:
+Instruction 1: ifwall 5
+Instruction 2: hop
+Ea_e ____ Ea_e ____ Ea_e ho_e ____ ho_w 
+Creature (Eat east 0 4) takes action:
+Instruction 1: ifwall 5
+Instruction 2: hop
+Ea_e ____ Ea_e ____ Ea_e ho_e ____ ho_w 
+Creature (hop west 0 7) takes action:
+Instruction 1: hop
+Ea_e ____ Ea_e ____ Ea_e ho_e ho_w ____ 
+Creature (hop east 0 5) takes action:
+Instruction 1: hop
+Ea_e ____ Ea_e ____ Ea_e ho_e ho_w ____ 
+Round 2
+Creature (Eat east 0 0) takes action:
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ Ea_e Ea_e ____ Ea_e ho_e ho_w ____ 
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ Ea_e Ea_e ____ Ea_e ho_e ho_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ Ea_e Ea_e ____ Ea_e ho_e ho_w ____ 
+Creature (hop west 0 6) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ Ea_e Ea_e ____ Ea_e ho_e ho_w ____ 
+Creature (hop east 0 5) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ Ea_e Ea_e ____ Ea_e ho_e ho_w ____ 
+Round 3
+Creature (Eat east 0 1) takes action:
+Instruction 3: infect
+____ Ea_e Ea_e ____ Ea_e Ea_e ho_w ____ 
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ Ea_e ____ Ea_e Ea_e Ea_e ho_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ Ea_e ____ Ea_e Ea_e Ea_e ho_w ____ 
+Creature (hop west 0 6) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ Ea_e ____ Ea_e Ea_e Ea_e ho_w ____ 
+Creature (Eat east 0 5) takes action:
+Instruction 1: ifwall 5
+Instruction 5: left
+____ Ea_e ____ Ea_e Ea_e Ea_n ho_w ____ 
+Round 4
+Creature (Eat east 0 1) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_n ho_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_n ho_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_n ho_w ____ 
+Creature (hop west 0 6) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ Ea_e Ea_e Ea_e Ea_n ho_w ____ 
+Creature (Eat north 0 5) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 5: left
+____ ____ Ea_e Ea_e Ea_e Ea_w ho_w ____ 
+Round 5
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 6
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 7
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 8
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 9
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 10
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 11
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 12
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 13
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 14
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 15
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 16
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 17
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 18
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 19
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 20
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 21
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 22
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 23
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 24
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 25
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 26
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 27
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 28
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 29
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 30
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 31
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 32
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 33
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 34
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 35
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 36
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 37
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 38
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 39
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 40
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 41
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 42
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 43
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 44
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 45
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 46
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 47
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 48
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 49
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 50
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 51
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 52
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 53
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 54
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 55
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 56
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 57
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 58
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 59
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 60
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 61
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 62
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 63
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 64
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 65
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 66
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 67
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 68
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 69
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 70
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 71
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 72
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 73
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 74
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 75
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 76
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 77
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 78
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 79
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 80
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 81
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 82
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 83
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 84
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 85
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 86
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 87
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 88
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 89
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 90
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 91
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 92
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 93
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 94
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 95
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 96
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 97
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 98
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 99
+Creature (Eat east 0 2) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Round 100
+Creature (Eat east 0 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: hop
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 3) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat east 0 4) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 6) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 
+Creature (Eat west 0 5) takes action:
+Instruction 3: infect
+____ ____ Ea_e Ea_e Ea_e Ea_w Ea_w ____ 

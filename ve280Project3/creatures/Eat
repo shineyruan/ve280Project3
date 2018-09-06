@@ -1,0 +1,6 @@
+ifwall 5
+hop
+infect
+go 1
+left
+go 1

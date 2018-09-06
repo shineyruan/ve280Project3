@@ -1,0 +1,1101 @@
+Initial state
+____ ho_w 
+ho_e ____ 
+Round 1
+Creature (hop east 1 0) takes action:
+Instruction 1: hop
+____ ho_w 
+ho_e ____ 
+Creature (hop west 0 1) takes action:
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 2
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 3
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 4
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 5
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 6
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 7
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 8
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 9
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 10
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 11
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 12
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 13
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 14
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 15
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 16
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 17
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 18
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 19
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 20
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 21
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 22
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 23
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 24
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 25
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 26
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 27
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 28
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 29
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 30
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 31
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 32
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 33
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 34
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 35
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 36
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 37
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 38
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 39
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 40
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 41
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 42
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 43
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 44
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 45
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 46
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 47
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 48
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 49
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 50
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 51
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 52
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 53
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 54
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 55
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 56
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 57
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 58
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 59
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 60
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 61
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 62
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 63
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 64
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 65
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 66
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 67
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 68
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 69
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 70
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 71
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 72
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 73
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 74
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 75
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 76
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 77
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 78
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 79
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 80
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 81
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 82
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 83
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 84
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 85
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 86
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 87
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 88
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 89
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 90
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 91
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 92
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 93
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 94
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 95
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 96
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 97
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 98
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 99
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Round 100
+Creature (hop east 1 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 
+Creature (hop west 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_w ____ 
+ho_e ____ 

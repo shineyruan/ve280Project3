@@ -1,0 +1,6 @@
+ifenemy 6
+hop
+left
+ifwall 2
+infect
+go 1

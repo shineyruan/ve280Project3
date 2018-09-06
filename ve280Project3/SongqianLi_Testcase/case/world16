@@ -1,0 +1,9 @@
+2
+15
+HHHFFPPHHLLHHPP
+FFFHHFFPPPPHHFF
+hop west 0 14
+hop west 0 5
+hop west 1 13 f
+Eat east 0 2
+Eat east 1 3 f a

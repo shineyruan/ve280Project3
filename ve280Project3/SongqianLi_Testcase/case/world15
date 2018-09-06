@@ -1,0 +1,24 @@
+9
+9
+LFFLFLPFF
+PFPFFFPPP
+FFFHLLPPL
+HHHHFLHLP
+FLFFHFFLH
+HLHFPLHHH
+FFHPLLHFP
+FLLFLFFPL
+HFHPLFHPP
+food south 2 3 f a
+lrover west 6 0 a
+hop east 1 1 a
+hop west 7 4 f
+lrover north 1 5 f
+path_finder north 8 3 f
+path_finder north 2 7
+lrover north 1 8 f
+food north 0 0 f
+food north 5 5 f a
+alt_rover south 0 4 f
+hop west 4 2 a
+landmine east 8 8 a

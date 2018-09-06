@@ -1,0 +1,2507 @@
+Initial state
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w la_e fl_w 
+Round 1
+Creature (landmine east 3 2) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w la_e la_w 
+Creature (flytrap west 3 1) takes action:
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s la_e la_w 
+Creature (landmine west 3 3) takes action:
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 5: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s la_e la_s 
+Round 2
+Creature (landmine east 3 2) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 5: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s la_n la_s 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e la_n la_s 
+Creature (landmine south 3 3) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 5: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e la_n la_e 
+Round 3
+Creature (landmine north 3 2) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e la_n la_e 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n la_e 
+Creature (landmine east 3 3) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 5: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n la_n 
+Round 4
+Creature (flytrap north 3 2) takes action:
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_w la_n 
+Creature (flytrap east 3 1) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w la_n 
+Creature (landmine north 3 3) takes action:
+Instruction 6: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w la_n 
+Round 5
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_s la_n 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s la_n 
+Creature (landmine north 3 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s la_n 
+Round 6
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_e la_n 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e la_n 
+Creature (landmine north 3 3) takes action:
+Instruction 4: go 1
+Instruction 1: ifwall 5
+Instruction 2: ifsame 5
+Instruction 3: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e la_n 
+Round 7
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 8
+Creature (flytrap east 3 2) takes action:
+Instruction 5: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 9
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 10
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 11
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 12
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 13
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 14
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 15
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 16
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 17
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 18
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 19
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 20
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 21
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 22
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 23
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 24
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 25
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 26
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 27
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 28
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 29
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 30
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 31
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 32
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 33
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 34
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 35
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 36
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 37
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 38
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 39
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 40
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 41
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 42
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 43
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 44
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 45
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 46
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 47
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 48
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 49
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 50
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 51
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 52
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 53
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 54
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 55
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 56
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 57
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 58
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 59
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 60
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 61
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 62
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 63
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 64
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 65
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 66
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 67
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 68
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 69
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 70
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 71
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 72
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 73
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 74
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 75
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 76
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 77
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 78
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 79
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 80
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 81
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 82
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 83
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 84
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 85
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 86
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 87
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 88
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 89
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 90
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 91
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 92
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 93
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 94
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 95
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 96
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 
+Round 97
+Creature (flytrap north 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_w fl_s 
+Creature (flytrap north 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_s 
+Creature (flytrap south 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_w fl_e 
+Round 98
+Creature (flytrap west 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_w fl_s fl_e 
+Creature (flytrap west 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_e 
+Creature (flytrap east 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_s fl_n 
+Round 99
+Creature (flytrap south 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_s fl_e fl_n 
+Creature (flytrap south 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_n 
+Creature (flytrap north 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_e fl_w 
+Round 100
+Creature (flytrap east 3 2) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_e fl_n fl_w 
+Creature (flytrap east 3 1) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_w 
+Creature (flytrap west 3 3) takes action:
+Instruction 3: go 1
+Instruction 1: ifenemy 4
+Instruction 2: left
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ fl_n fl_n fl_s 

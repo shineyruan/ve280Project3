@@ -1,0 +1,15 @@
+8
+6
+LFLHLP
+HHPHHH
+PPPLLL
+HLFFPH
+HFFFPH
+HFFFPH
+HFFFPH
+HFFFPH
+landmine east 3 4 f a
+flytrap west 3 1 f a
+path_finder north 3 3 a
+lrover south 3 2 a
+food north 3 0 a

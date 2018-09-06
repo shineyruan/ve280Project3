@@ -1,0 +1,22 @@
+12
+12
+PPFFPPPPLLPP
+HHFFFPPLLLPP
+HHHFFPPPLLPP
+PPPPPFFPPPPP
+PPLLLPPPPPPP
+PLLLLPPPPHPP
+LLLHHPPPHHPP
+LHHHHHPPPFPP
+HHHPPPPFFFPP
+PPPPPPFFFPPP
+PPPPPPPPPPPP
+PPPPPPPPPPPP
+flytrap east 1 0    a
+hop west 8 7  
+flytrap north 9 4 f
+landmine north 2 6
+landmine north 4 7 f
+path_finder south 8 4 a f
+rrover east 3 2
+alt_rover east 11 10

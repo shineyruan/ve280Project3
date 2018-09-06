@@ -1,0 +1,501 @@
+Initial state
+ho_e 
+Round 1
+Creature (hop east 0 0) takes action:
+Instruction 1: hop
+ho_e 
+Round 2
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 3
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 4
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 5
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 6
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 7
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 8
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 9
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 10
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 11
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 12
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 13
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 14
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 15
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 16
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 17
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 18
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 19
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 20
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 21
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 22
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 23
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 24
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 25
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 26
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 27
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 28
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 29
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 30
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 31
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 32
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 33
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 34
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 35
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 36
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 37
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 38
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 39
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 40
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 41
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 42
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 43
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 44
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 45
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 46
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 47
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 48
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 49
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 50
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 51
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 52
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 53
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 54
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 55
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 56
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 57
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 58
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 59
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 60
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 61
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 62
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 63
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 64
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 65
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 66
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 67
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 68
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 69
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 70
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 71
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 72
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 73
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 74
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 75
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 76
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 77
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 78
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 79
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 80
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 81
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 82
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 83
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 84
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 85
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 86
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 87
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 88
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 89
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 90
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 91
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 92
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 93
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 94
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 95
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 96
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 97
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 98
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 99
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 
+Round 100
+Creature (hop east 0 0) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+ho_e 

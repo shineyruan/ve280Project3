@@ -1,0 +1,13 @@
+5
+5
+FFFFF
+LLLLL
+HHHHH
+FFFFF
+PPPPP
+Eat north 3 0 
+Eat north 3 1 f
+Eat north 3 2 a
+Eat north 3 3 f a
+flytrap south 0 0 a
+alt_rover south 4 0 f
